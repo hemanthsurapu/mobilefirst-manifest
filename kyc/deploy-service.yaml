@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: mobilefirst-kyc
-        image: 135808923653.dkr.ecr.us-east-1.amazonaws.com/mobilefirst/kyc:29
+        image: 135808923653.dkr.ecr.us-east-1.amazonaws.com/mobilefirst/kyc:30
         ports:
         - containerPort: 3000
 ---
